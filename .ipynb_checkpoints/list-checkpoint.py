@@ -9,5 +9,4 @@ element5 = my_list[2:] # element5 = [546, 'penguin', 'human']
 my_list.append("rat") # my_list = ['cat', 'dog', 546, 'penguin', 'human', 'rat']
 my_list[1] = "rat" # my_list = ['cat', 'rat', 546, 'penguin', 'human', 'rat']
 my_list.insert(1,"dog") # my_list = ['cat', 'dog', 'rat', 546, 'penguin', 'human', 'rat']
-
 print(my_list)
